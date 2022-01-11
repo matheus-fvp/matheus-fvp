@@ -1,3 +1,3 @@
-- 👋 Oi, Eu sou @matheus-fvp
+- 👋 Oi, Eu sou Matheus Fernando Vieira Pinto estudante de Ciência da Computação na UFSCar-Sorocaba.
 - 👀 Tenho interesse em desenvolvimento web e mobile.
 - 🌱 Atualmente estou aprendendo html e css.
