@@ -1,3 +1,3 @@
-- 👋 Oi, Eu sou Matheus Fernando Vieira Pinto estudante de Ciência da Computação na UFSCar-Sorocaba.
-- 👀 Tenho interesse em desenvolvimento web e mobile.
-- 🌱 Atualmente estou aprendendo html e css.
+- 👋 Hi, My name is Matheus Fernando Vieira Pinto, I study computer science in UFSCar-Sorocaba.
+- 👀 I've interest in web and mobile development.
+- 🌱 I'm currently learning HTML, CSS and JavaScript.
