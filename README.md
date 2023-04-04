@@ -1,3 +1,3 @@
 - 👋 Hi, My name is Matheus Fernando Vieira Pinto, I study computer science in UFSCar-Sorocaba.
 - 👀 I've interest in web and mobile development.
-- 🌱 I'm currently learning HTML, CSS and JavaScript.
+- 🌱 I'm currently learning HTML, CSS, JavaScript, Java and Spring.
