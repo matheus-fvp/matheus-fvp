@@ -6,9 +6,6 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://vieira.matheusf13@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-vieira-06166722a/)
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus-fvp&show_icons=true&theme=onedark)
-</br>
-
 ## **Technologies and Tools**
 
 <div style="display: inline_block"><br/>
