@@ -1,5 +1,5 @@
 ## **About Me**
-### Hi, My name is Matheus Vieira, I study computer science in UFSCar-Sorocaba 🧑‍🎓💻. I've interest in web and mobile development.</br>
+### Hi, My name is Matheus Vieira, I study computer science in UFSCar-Sorocaba 🧑‍🎓💻.</br>
 
 ## **Contact**
 
